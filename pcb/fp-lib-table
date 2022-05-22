@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Espressif_ESP32-DevKitC)(type KiCad)(uri "H:/Developer/KiCad.Libraries/Espressif_ESP32-DevKitC V4/Espressif_ESP32-DevKitC.pretty")(options "")(descr ""))
+  (lib (name Boards)(type KiCad)(uri H:/Developer/KiCad.Libraries/SparkFun-KiCad-Libraries-master/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name ESP32-DEVKITC-32D)(type KiCad)(uri H:/Developer/KiCad.Libraries/ESP32-DEVKITC-32D.pretty)(options "")(descr ""))
+)
