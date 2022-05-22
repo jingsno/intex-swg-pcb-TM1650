@@ -12,10 +12,10 @@ https://www.troublefreepool.com/threads/automation-of-intex-swg.228606/
 *PCB for Intex SWG automation*
 ![](docs/poster.png)
 
-This is a PCB for Intex SWG Automation
-(with TM1650 display board)
 
 ## Schematic
 
-![](docs/schematic.png)
+Link to [PDF Schematic](docs/schematic.pdf)
+
+![Schematic](docs/schematic.png)
 
