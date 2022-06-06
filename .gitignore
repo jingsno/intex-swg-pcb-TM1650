@@ -32,3 +32,6 @@ gerbers/
 # Bom files
 bom.ini
 bom/
+
+# Temp reamdme.md file
+0README.html
