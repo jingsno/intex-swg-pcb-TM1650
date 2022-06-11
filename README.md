@@ -31,7 +31,7 @@ Link to [PDF Schematic](docs/intex-swg-pcb.pdf)
 
 | Part            |             |
 |-----------------|-------------|
-| ESP32-DevkitC ext antenna |  https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32U/9357002 | $1600 |
+| ESP32-DevkitC ext antenna |  https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32U/9357002 |
 | IRM-03-5 | https://www.digikey.com/en/products/detail/mean-well-usa-inc/IRM-03-5/7704640 |
 | Level shifter to/from 5V/3.3V | https://www.aliexpress.com/item/1005001621978054.html | 
 | 3.3V Relay module | https://www.aliexpress.com/item/32884967707.html | 
